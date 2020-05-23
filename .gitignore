@@ -1,0 +1,3 @@
+venv/*
+.vscode/*
+homework/.DS_Store
